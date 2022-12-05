@@ -1,0 +1,28 @@
+VSCode
+
+Extensões
+
+Code Runner
+Docker
+Python
+
+
+
+
+settings.json
+
+
+{
+    "workbench.colorTheme": "Default Dark+",
+
+    "code-runner.executorMap": {
+            "python": "set PYTHONIOENCODING=utf8 && py"
+        }
+}
+
+
+
+
+
+
+https://www.youtube.com/watch?v=H3tiudUzN6c&list=PL6u1VNwqZdJamJIpi0ajtFpopTWeUx5pK&index=5
